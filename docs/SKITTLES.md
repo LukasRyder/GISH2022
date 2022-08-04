@@ -1,7 +1,7 @@
 ---
 title: SKITTLES
 created: '2022-08-03T02:29:26.720Z'
-modified: '2022-08-04T05:28:14.553Z'
+modified: '2022-08-04T05:38:58.975Z'
 ---
 
 # SKITTLES
@@ -12,6 +12,6 @@ modified: '2022-08-04T05:28:14.553Z'
 **What the mainstream media hasn't been telling you about SKITTLES!**
 
 ### Read our other news stories
-[KALE ruins your creativity!](./kale.md)
+[KALE ruins your creativity!](./KALE.md)
 
 
