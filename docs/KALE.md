@@ -1,7 +1,7 @@
 ---
 title: KALE
 created: '2022-08-01T19:03:40.784Z'
-modified: '2022-08-04T05:39:06.255Z'
+modified: '2022-08-04T05:45:54.969Z'
 ---
 
 # KALE
@@ -13,6 +13,6 @@ modified: '2022-08-04T05:39:06.255Z'
 
 
 ### Read our other news stories
-[SKITTLES aren't food, but PAINT!](\SKITTLES.md)
+[SKITTLES aren't food, but PAINT!](./SKITTLES.md)
 
 
