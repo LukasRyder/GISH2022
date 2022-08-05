@@ -2,7 +2,7 @@
 tags: [done, general]
 title: index
 created: '2022-08-04T06:10:35.644Z'
-modified: '2022-08-05T10:55:06.071Z'
+modified: '2022-08-05T11:14:49.929Z'
 ---
 
 # index
@@ -15,7 +15,7 @@ This website is dedicated to uncovering the uncomfortable truths, about some of 
 
 It has been well established that the mainstream media has been influenced by [Big Food](./BIG FOOD.md) and as such they only report what is convient for the industry. They however neglect to tell us the vital information we need to make an informed decision when we choose what to eat. This needs to stop!
 
-[EGG](./EGG.md) is a collective of based individuals who has seen through the lies and turned their back on convential "knowledge" and resorted to set up their own information source, [KALE](./KALE NEWS.md).
+[EGG](./EGG.md) is a collective of based individuals who has seen through the lies and turned their back on conventional "knowledge" and resorted to set up their own information source, [KALE](./KALE NEWS.md).
 
 >"With great power comes great responsibility"
 
