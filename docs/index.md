@@ -2,7 +2,7 @@
 tags: [done, general]
 title: index
 created: '2022-08-04T06:10:35.644Z'
-modified: '2022-08-05T08:00:38.296Z'
+modified: '2022-08-05T08:19:27.346Z'
 ---
 
 # index
@@ -26,10 +26,8 @@ Start reading at your own risk!
 
  [KALE ruins your creativity!](./KALE.md)
 
-###### IMPORTANT INFORMATION
+###### [Home](./index.md)
 
-[Home](./index.md)
-
-All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
+###### All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
 
 
