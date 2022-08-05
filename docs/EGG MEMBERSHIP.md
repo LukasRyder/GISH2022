@@ -2,12 +2,14 @@
 tags: [done, general]
 title: EGG MEMBERSHIP
 created: '2022-08-05T07:42:01.354Z'
-modified: '2022-08-05T08:27:10.658Z'
+modified: '2022-08-05T10:20:31.707Z'
 ---
 
 # EGG MEMBERSHIP
 
-#### How to Apply for membership
+#### KALE - YOUR ALTERNATIVE INFORMATION SOURCE FOR NUTRITION
+
+### How to Apply for membership
 E-mail this form to [info@kale.gish](./This emailadress does not exist.md)
 
 ### Membership Form
@@ -34,6 +36,7 @@ I declare that I have seen the light and want to become a member of EGG. I will 
 ###### Membership Obligations
 ###### By becoming a member of EGG you will become liable to pay an annual fee in exchange for the exclusive perks that EGG provides. For the small fee of 11.99 per month you get year long early access to all [KALE](./KALE NEWS.md) stories. Membership can only be cancelled on every 69th day of membership and has to be cancelled on a wednesday.
 
+___
 
 ###### [Home](./index.md)
 

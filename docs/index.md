@@ -2,7 +2,7 @@
 tags: [done, general]
 title: index
 created: '2022-08-04T06:10:35.644Z'
-modified: '2022-08-05T08:19:27.346Z'
+modified: '2022-08-05T10:19:39.227Z'
 ---
 
 # index
@@ -25,6 +25,12 @@ Start reading at your own risk!
  [SKITTLES aren't food, but PAINT!](./SKITTLES.md)
 
  [KALE ruins your creativity!](./KALE.md)
+
+ [VEGAN and ANIMAL work together!](./VEGAN VS ANIMAL.md)
+
+ [You should skip BREAKFAST!](./BREAKFAST.md)
+
+___
 
 ###### [Home](./index.md)
 

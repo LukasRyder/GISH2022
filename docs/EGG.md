@@ -2,7 +2,7 @@
 tags: [done, general]
 title: EGG
 created: '2022-08-04T22:33:34.463Z'
-modified: '2022-08-05T08:19:36.435Z'
+modified: '2022-08-05T10:40:44.703Z'
 ---
 
 # EGG
@@ -16,9 +16,9 @@ EGG stands for Enlighted Genuine Growth. Only through having an open mind can me
 ### History of EGG
 The organisation came into existence in August 1997 in the garage of our leader, after a rigorous band practice, where one of the members fainted. Once he started feeling better we discussed why it happened. It turned out that he hadn't eaten for two days. 
 
-We discovered that even though they only tell us *"You shouldn't skip [breakfast](./BREAKFAST.md)"* and *"breakfast is the most important meal of the day"* It turns out that that all meals are important, not just the breakfast ones. Also it is not just you shouldn't skip breakfast, more you can't. If you just miss one breakfast you already have no food for two full days. It is ridiculous that this isn't talked about more in schools and by the media. 
+We discovered that even though they only tell us ***"You shouldn't skip [breakfast](./BREAKFAST.md)"*** and ***"breakfast is the most important meal of the day"*** It turns out that that all meals are important, not just the breakfast ones. Also it is not just you shouldn't skip breakfast, more you can't. If you just miss one breakfast you already have no food for two full days. It is ridiculous that this isn't talked about more in schools and by the media. 
 
-This is when we decided that we were obligated to ourselves to dispel the myths around food people try to force down our throats. 
+This is when we decided that we were obligated to ourselves to dispel the myths around food people try to force down our throats. This was the start of EGG. Two years after this first meeting the first edition of [KALE](./KALE NEWS.md) was published.
 
 ### Becoming a member
 If you have seen the light and want to become an member of EGG fill in our [membership form](./EGG MEMBERSHIP.md) and join us on the way to true knowledge. You will be granted exclusive excess to a long list of perks.
@@ -26,6 +26,8 @@ If you have seen the light and want to become an member of EGG fill in our [memb
 * You will receive early access to news stories.
 * You will be granted the option to send in questions to leadership. [note: this does not include the guarantee these questions will be answered.]
 * You will level up faster on your path to enlightenment.
+
+___
 
 ###### [Home](./index.md)
 

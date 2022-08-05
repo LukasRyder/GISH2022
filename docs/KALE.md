@@ -2,22 +2,31 @@
 tags: [news]
 title: KALE
 created: '2022-08-01T19:03:40.784Z'
-modified: '2022-08-05T08:19:55.003Z'
+modified: '2022-08-05T10:34:16.304Z'
 ---
 
 # KALE
 
 #### KALE - YOUR ALTERNATIVE INFORMATION SOURCE FOR NUTRITION
 
-<img src="attachments/kale.png" width="200" height="200" /> 
+![KALE](./attachments/kale.png)
 
 **Everyone should know by now that the mainstream media has been lying for years about KALE!**
 
 ## KALE ruins your creativity
 
-### Read our other news stories
-[SKITTLES aren't food, but PAINT!](./SKITTLES.md)
+We don't have much to support this statement other than the complete core believe that this is true.
 
+### Latest News Stories
+ [SKITTLES aren't food, but PAINT!](./SKITTLES.md)
+
+ [KALE ruins your creativity!](./KALE.md)
+
+ [VEGAN and ANIMAL work together!](./VEGAN VS ANIMAL.md)
+
+ [You should skip BREAKFAST!](./BREAKFAST.md)
+
+___
 
 ###### [Home](./index.md)
 
