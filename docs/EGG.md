@@ -2,7 +2,7 @@
 tags: [done, general]
 title: EGG
 created: '2022-08-04T22:33:34.463Z'
-modified: '2022-08-05T07:52:56.064Z'
+modified: '2022-08-05T08:01:57.758Z'
 ---
 
 # EGG
@@ -27,5 +27,8 @@ If you have seen the light and want to become an member of EGG fill in our [memb
 * You will be granted the option to send in questions to leadership. [note: this does not include the guarantee these questions will be answered.]
 * You will level up faster on your path to enlightenment.
 
+###### IMPORTANT INFORMATION
+
 [Home](./index.md)
+
 All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)

@@ -2,7 +2,7 @@
 tags: [news]
 title: KALE
 created: '2022-08-01T19:03:40.784Z'
-modified: '2022-08-05T07:50:45.966Z'
+modified: '2022-08-05T08:02:12.180Z'
 ---
 
 # KALE
@@ -19,5 +19,8 @@ modified: '2022-08-05T07:50:45.966Z'
 [SKITTLES aren't food, but PAINT!](./SKITTLES.md)
 
 
+###### IMPORTANT INFORMATION
+
 [Home](./index.md)
+
 All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)

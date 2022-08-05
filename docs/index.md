@@ -2,7 +2,7 @@
 tags: [done, general]
 title: index
 created: '2022-08-04T06:10:35.644Z'
-modified: '2022-08-05T07:57:38.106Z'
+modified: '2022-08-05T08:00:38.296Z'
 ---
 
 # index
@@ -22,10 +22,14 @@ It has been well established that the mainstream media has been influenced by [B
 Start reading at your own risk!
 
 ### Latest News Stories
-[SKITTLES aren't food, but PAINT!](./SKITTLES.md)
-[KALE ruins your creativity!](./KALE.md)
+ [SKITTLES aren't food, but PAINT!](./SKITTLES.md)
+
+ [KALE ruins your creativity!](./KALE.md)
+
+###### IMPORTANT INFORMATION
 
 [Home](./index.md)
+
 All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
 
 
