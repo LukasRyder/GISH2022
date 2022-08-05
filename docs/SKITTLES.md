@@ -2,7 +2,7 @@
 tags: [news]
 title: SKITTLES
 created: '2022-08-03T02:29:26.720Z'
-modified: '2022-08-05T02:24:14.262Z'
+modified: '2022-08-05T07:50:42.907Z'
 ---
 
 # SKITTLES
@@ -19,5 +19,6 @@ modified: '2022-08-05T02:24:14.262Z'
 [KALE ruins your creativity!](./KALE.md)
 
 [Home](./index.md)
+All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
 
 
