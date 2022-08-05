@@ -2,7 +2,7 @@
 tags: [news]
 title: SKITTLES
 created: '2022-08-03T02:29:26.720Z'
-modified: '2022-08-05T10:33:13.662Z'
+modified: '2022-08-05T10:54:47.997Z'
 ---
 
 # SKITTLES
@@ -38,4 +38,4 @@ If you want to contribute to effort to change hearts and minds regarding SKITTLE
 
 ###### All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
 
-
+###### [Sitemap](./Sitemap.md)

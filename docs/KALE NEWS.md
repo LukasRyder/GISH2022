@@ -2,7 +2,7 @@
 tags: [done, general]
 title: KALE NEWS
 created: '2022-08-05T01:54:36.213Z'
-modified: '2022-08-05T10:20:45.037Z'
+modified: '2022-08-05T10:54:54.685Z'
 ---
 
 # KALE NEWS
@@ -35,3 +35,5 @@ ___
 ###### [Home](./index.md)
 
 ###### All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
+
+###### [Sitemap](./Sitemap.md)

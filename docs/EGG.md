@@ -2,7 +2,7 @@
 tags: [done, general]
 title: EGG
 created: '2022-08-04T22:33:34.463Z'
-modified: '2022-08-05T10:40:44.703Z'
+modified: '2022-08-05T10:55:16.455Z'
 ---
 
 # EGG
@@ -32,3 +32,5 @@ ___
 ###### [Home](./index.md)
 
 ###### All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
+
+###### [Sitemap](./Sitemap.md)

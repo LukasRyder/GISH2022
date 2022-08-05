@@ -2,7 +2,7 @@
 tags: [done, general]
 title: index
 created: '2022-08-04T06:10:35.644Z'
-modified: '2022-08-05T10:19:39.227Z'
+modified: '2022-08-05T10:55:06.071Z'
 ---
 
 # index
@@ -36,4 +36,5 @@ ___
 
 ###### All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
 
+###### [Sitemap](./Sitemap.md)
 

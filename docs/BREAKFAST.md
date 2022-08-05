@@ -2,7 +2,7 @@
 tags: [news]
 title: BREAKFAST
 created: '2022-08-05T02:12:12.949Z'
-modified: '2022-08-05T10:48:46.148Z'
+modified: '2022-08-05T10:55:21.318Z'
 ---
 
 # BREAKFAST
@@ -35,3 +35,5 @@ ___
 ###### [Home](./index.md)
 
 ###### All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
+
+###### [Sitemap](./Sitemap.md)

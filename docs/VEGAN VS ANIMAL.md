@@ -2,7 +2,7 @@
 tags: [done, news]
 title: VEGAN VS ANIMAL
 created: '2022-08-05T09:31:45.461Z'
-modified: '2022-08-05T10:19:16.563Z'
+modified: '2022-08-05T10:54:33.962Z'
 ---
 
 # VEGAN VS ANIMAL
@@ -39,3 +39,5 @@ ___
 ###### [Home](./index.md)
 
 ###### All content of this website is part of [KALE](./KALE NEWS.md) and is copyrighted by [EGG](./EGG.md)
+
+###### [Sitemap](./Sitemap.md)
