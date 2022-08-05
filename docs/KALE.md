@@ -1,12 +1,13 @@
 ---
+tags: [news]
 title: KALE
 created: '2022-08-01T19:03:40.784Z'
-modified: '2022-08-05T00:44:34.915Z'
+modified: '2022-08-05T02:24:14.242Z'
 ---
 
 # KALE
 
-#### YOUR ALTERNATIVE INFORMATION SOURCE FOR NUTRITION
+#### KALE - YOUR ALTERNATIVE INFORMATION SOURCE FOR NUTRITION
 
 <img src="attachments/kale.png" width="200" height="200" /> 
 
@@ -16,3 +17,6 @@ modified: '2022-08-05T00:44:34.915Z'
 
 ### Read our other news stories
 [SKITTLES aren't food, but PAINT!](./SKITTLES.md)
+
+
+[Home](./index.md)
